@@ -1,0 +1,19 @@
+# Unreal 빌드/생성 폴더
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE 파일 (.uproject에서 다시 생성 가능)
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.slnx
+UpgradeLog*.htm
+_UpgradeReport_Files/
